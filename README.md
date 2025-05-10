@@ -1,4 +1,5 @@
-Bright Coffee Shop Sales Analysis
+##Bright Coffee Shop Sales Analysis##
+
 This project presents a comprehensive sales analysis of historical transactional data from Bright Coffee Shop. It was designed to provide business insights for a newly appointed CEO with the goal of improving revenue performance and optimizing product strategy.
 
 📌 Objective
