@@ -2,7 +2,7 @@
 
 This project presents a comprehensive sales analysis of historical transactional data from Bright Coffee Shop. It was designed to provide business insights for a newly appointed CEO with the goal of improving revenue performance and optimizing product strategy.
 
-Objective
+**Objective**
 
 -To use data analytics and visualization to answer the following key business questions:
 -Which products generate the most revenue?
@@ -10,8 +10,8 @@ Objective
 -What are the sales trends across product types and time intervals?
 -What actionable recommendations can be made to improve sales performance?
 
-🧰 Tools Used
-SQL Platforms: Snowflake, DBeaver, Google BigQuery, SQL Developer
+🧰 **Tools Used**
+SQL Platforms: Snowflak
 
 Data Visualization: Microsoft Excel, Power BI, Tableau
 
@@ -48,7 +48,7 @@ Delivered a compelling data story with:
 
 Key takeaways backed by visuals
 
-Recommendations for sales growth
+**Recommendations for sales growth**
 
 Next steps including automation and multi-location tracking
 
